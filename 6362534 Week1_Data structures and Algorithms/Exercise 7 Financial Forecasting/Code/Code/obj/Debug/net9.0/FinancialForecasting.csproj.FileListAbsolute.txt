@@ -1,0 +1,14 @@
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.exe
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.deps.json
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.runtimeconfig.json
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.dll
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\bin\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.dll
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\refint\FinancialForecasting.dll
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.pdb
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\KIIT01\OneDrive\Desktop\Hands_On_Cognizant\6362534 Week1_Data structures and Algorithms\Exercise 7 Financial Forecasting\FinancialForecasting\obj\Debug\net9.0\ref\FinancialForecasting.dll
